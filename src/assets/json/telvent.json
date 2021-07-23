@@ -1,0 +1,30 @@
+{
+  "hosts": {
+    "telvent" : {
+     "Infrastructure" : {
+       "server11": "10.11.3.12",
+       "server2": "13.14.15.16",
+       "server3": "10.10.11.123",
+       "server4": "13.14.15.163"
+     },
+     "Vsphere": {
+       "server11": "17.18.19.20",
+       "server2222": "22.23.24.99"
+     },
+     "Networking": {
+       "server999": "10.00.99.111"
+     },
+     "MVNO": {
+       "host2020": "192.169.0.0"
+     },
+     "Applications": {
+      "es-tv-blue-VRing-Scanner-db": "185.117.172.21",
+      "pbx-host2": "333.222.11.9"
+    },
+     "PBX": {
+       "pbx-host": "222.333.111.4",
+       "es-tv-pbx-OpenSIPS": "1.2.3.4, 6.7.8.9"
+     }
+   }
+  }
+}
